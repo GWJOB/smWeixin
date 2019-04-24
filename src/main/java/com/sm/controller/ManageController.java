@@ -508,6 +508,6 @@ public class ManageController {
     }
 
     public static void main(String[] args) {
-        System.out.println("abcded");
+        System.out.println("abcdedd");
     }
 }
