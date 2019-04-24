@@ -506,4 +506,8 @@ public class ManageController {
         }
         return host+separator+"upload"+separator+filePath;
     }
+
+    public static void main(String[] args) {
+        System.out.println("abc");
+    }
 }
